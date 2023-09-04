@@ -1,0 +1,310 @@
+
+@media (min-width:1400px){ 
+/*========================27=12=2022============================*/ 
+.landing_promotion:before{   background-size:100% 100%; } 
+
+}
+
+@media (min-width:1900px){  
+
+.dignostic_landing_banner:before{ background-size:100% 100%;}
+}
+
+
+
+@media (min-width:1200px) and (max-width:1399px){   
+
+.ld_md_rw h3{ font-size:31px;} 
+.title_01 h2 .h_txt{ font-size:40px;}
+.uo_p_worksheets{ margin-left:0px !important;} 
+
+/*===================================19=12=2022=======================================*/ 
+.dignostic_landing_banner.diagnostic_test_option1 h1{ font-size:38px;} 
+
+/*========================27=12=2022============================*/ 
+.landing_promotion:before{   background-size:100% 100%; } 
+
+}
+
+@media (min-width:992px) and (max-width:1199px){    
+
+body{ font-size:16px;} 
+
+/*========================keyframecss============================*/
+@keyframes flow-s01 {
+  0% {
+    top: -40%;
+    left: 8%;
+    opacity:0;
+  }
+  25%{
+    top: -35%;
+    left: 7%;
+    opacity: 1;
+  }
+  50%{
+    top: -30%;
+    left: 6%;
+    opacity: 1;
+  }
+  75%{
+    top: -25%;
+    left: 5%;
+    opacity: 1;
+  }
+  100% {
+    top: -20%;
+    left: 4%;
+    opacity: 0;
+  }
+} 
+
+/*====================================================*/
+
+/*===================================19=12=2022=======================================*/ 
+.dignostic_landing_banner.diagnostic_test_option1 h1{ font-size:30px;} 
+.grade_cl_m .gr_line_2, .grade_cl_m2 .gr_line_2{ font-size:26px;}
+.grade_cl_m .gr_line_last, .grade_cl_m2 .gr_line_last{ font-size:18px;} 
+
+/*========================27=12=2022============================*/ 
+.landing_promotion:before{   background-size:100% 100%; } 
+
+}
+
+@media (min-width:768px) and (max-width:991px){
+body{ font-size:16px;}   
+.dignostic_landing_banner h1{ font-size:30px;} 
+.dignostic_landing_banner .btn{ font-size:15px; padding:8px 15px;} 
+.dignostic_landing_banner{ padding-top:50px;} 
+.ld_md_rw h3{ font-size:25px;}
+.title_01 h2 .h_txt{ font-size:32px;}
+/*========================keyframecss============================*/
+@keyframes flow-s01 {
+  0% {
+    top: -40%;
+    left: 8%;
+    opacity:0;
+  }
+  25%{
+    top: -35%;
+    left: 7%;
+    opacity: 1;
+  }
+  50%{
+    top: -30%;
+    left: 6%;
+    opacity: 1;
+  }
+  75%{
+    top: -25%;
+    left: 5%;
+    opacity: 1;
+  }
+  100% {
+    top: -20%;
+    left: 4%;
+    opacity: 0;
+  }
+} 
+
+/*====================================================*/   
+
+.ftr_cl_1{ margin-right:0px !important;} 
+.footer_top h6{ font-size:16px;} 
+.c_ftr{ padding-left:22px; font-size:16px;} 
+.c_ftr a i img{ height:16px;} .f_b_lnk ul li{ margin-right:10px;} 
+
+/*===================================19=12=2022=======================================*/ 
+.dignostic_landing_banner.diagnostic_test_option1 h1{ font-size:22px;} 
+.dignostic_landing_banner.diagnostic_test_option1 .btn{ font-size:14px;} 
+ul.ul_dt2 li{ width:32%; margin-right:2% !important; padding:50px 20px 20px;} 
+ul.ul_dt2 li:nth-child(3n+3){ margin-right:0px !important;} 
+ul.ul_dt2 li:last-child{ margin-right:0px !important;} 
+.getoff{ text-align:center; margin-top:15px;} 
+.starts_only{ width:230px;} 
+
+/*========================27=12=2022============================*/ 
+.landing_promotion:before{   background-size:100% 100%; } 
+  
+}
+
+@media (max-width:767px){  
+body{ font-size:16px;} 
+
+.dignostic_landing_banner{ padding-top:60px;} 
+.b_description{ text-align:center; margin-bottom:30px;} 
+.dignostic_landing_banner h1{ font-size:30px;} 
+.dignostic_landing_banner .btn{ font-size:16px; padding:8px 22px;} 
+.ld_md_rw figcaption{ margin:20px 0px 0px!important;}
+.ld_md_rw h3{ font-size:25px; text-align:center;} .ld_md_rw figure{ text-align:center;} .ld_md_rw figure img{ max-width:220px;} 
+.title_01 h2 .h_txt{ font-size:30px;}
+
+/*========================keyframecss============================*/
+@keyframes flow-s01 {
+  0% {
+    top: -40%;
+    left: 24%;
+    opacity:0;
+  }
+  25%{
+    top: -35%;
+    left: 20%;
+    opacity: 1;
+  }
+  50%{
+    top: -30%;
+    left: 18%;
+    opacity: 1;
+  }
+  75%{
+    top: -25%;
+    left: 16%;
+    opacity: 1;
+  }
+  100% {
+    top: -20%;
+    left: 14%;
+    opacity: 0;
+  }
+} 
+
+@keyframes flow-s-0l {
+  0% {
+    top:-40%;
+    left: -4%;
+    opacity:0;
+  }
+  25%{
+    top: -35%;
+    left: -3.5%;
+    opacity: 1;
+  }
+  50%{
+    top: -30%;
+    left: -3%;
+    opacity: 1;
+  }
+  75%{
+    top: -25%;
+    left: -2.5%;
+    opacity: 1;
+  }
+  100% {
+    top: -20%;
+    left: -2%;
+    opacity: 0;
+  }
+}
+
+
+@keyframes flow-s03 {
+  0% {
+    top: 50%;
+    right:0%;
+    opacity:0;
+  }
+  25%{
+    top: 45%;
+    right:1%;
+    opacity: 1;
+  }
+  50%{
+    top: 40%;
+    right: 2%;
+    opacity: 1;
+  }
+  75%{
+    top: 35%;
+    right: 3%;
+    opacity: 1;
+  }
+  100% {
+    top: 30%;
+    right: 4%;
+    opacity: 0;
+  }
+} 
+
+/*====================================================*/    
+
+.ftr_cl_1{ margin-right:0px !important; margin-bottom:35px; text-align:center;}
+.c_ftr{ padding-left:22px; font-size:16px;} 
+.c_ftr a i img{ height:16px;}.f_b_lnk ul li:last-child{ margin-right:0px;} 
+.f_b_lnk ul li a, .footer_bottom .text-end{ text-align:center !important;}  
+.footer_bottom .text-end{ margin-top:15px;} .f_b_lnk ul{ display:flex; justify-content:center;} 
+.footer{ padding-top:100px;} .uo_p_worksheets{ margin-left:0px !important;} 
+.ld_md_rw figure span{ right:inherit !important; left:50% !important; margin-left:-112px !important; top:-25px !important;} 
+
+/*=================================19=12=2022=======================================*/ 
+.personalized_learning{ background:#fff; border-radius:100%; padding:35px 0px;} 
+.m_op{ padding-top:40px !important;} 
+
+@keyframes dt-s02 {
+  0% {
+    top: 38%;
+    left:1%;
+    opacity:0;
+  }
+  25%{
+    top: 37%;
+    left:2%;
+    opacity: 1;
+  }
+  50%{
+    top: 36%;
+    left: 3%;
+    opacity: 1;
+  }
+  75%{
+    top: 35%;
+    left: 4%;
+    opacity: 1;
+  }
+  100% {
+    top: 34%;
+    left: 5%;
+    opacity: 0;
+  }
+} 
+
+
+
+@keyframes dt-s03 {
+  0% {
+    top: 47%;
+    left:-4%;
+    opacity:0;
+  }
+  25%{
+    top: 46%;
+    left:-3.5%;
+    opacity: 1;
+  }
+  50%{
+    top: 45%;
+    left: -3%;
+    opacity: 1;
+  }
+  75%{
+    top: 44%;
+    left: -2.5%;
+    opacity: 1;
+  }
+  100% {
+    top: 43%;
+    left: -2%;
+    opacity: 0;
+  }
+}  
+
+ul.ul_dt2 li{ width:100%; margin-right:0px !important;}
+.getoff{ text-align:center; margin-top:15px;} 
+.ss_top{ flex-wrap:wrap; text-align:center;} 
+.ss_top i{ margin:0px 0px 5px !important; padding:0px !important;} 
+.ss_top h2{ font-size:20px; line-height:25px;}  
+.ss_top i img{ height:60px;} .grade_cl_m, .grade_cl_m2{ height:auto; margin-bottom:20px;} 
+.starts_only{ width:100%; text-align:center; bottom:0px; position:relative;}  
+.starts_only img{ max-width:180px;}
+.landing_promotion figure{ max-width:100%; text-align:center;} .landing_promotion figure img{ max-width:200px;}
+
+}
